@@ -19,8 +19,6 @@ import re
 # # print(fun())
 # # fun()
 # # fun()
-#
-#
 # def fun(n1, n2, n3, n4):
 #     """
 #     第一个参数加上第二个×第三个将其结果打印n4次！
